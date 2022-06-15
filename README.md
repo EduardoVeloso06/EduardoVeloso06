@@ -1,0 +1,5 @@
+- # Sobre mim
+- :+1:Olá meu nome é @EduardoVeloso06
+- :+1:Meu email de contato eduardo.veloso@escola.pr.gov.br
+- :+1:Eu estou interessado em aprender a programar novas linguagens
+- 👍:Eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratch.
